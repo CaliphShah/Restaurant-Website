@@ -1,0 +1,28 @@
+.navigat ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navigat ul li{
+    display: inline-block;
+    margin: 0em 1em;
+}
+.navigat ul li a{
+    padding: 1em 0em 1em 0em;
+    margin: 0;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #c0c0c0;
+    text-align: center;
+    height:1.2em;
+}
+.navigat ul li a:hover{
+    
+   
+    border-bottom:5px solid #fdfdfd; 
+  
+    
+}
+
